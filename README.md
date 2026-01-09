@@ -15,14 +15,14 @@ I am a **Business Strategist** and **Big Data Analytics** enthusiast with a pass
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 | Analytics & Data | AI & Productivity | Soft Skills |
 | :--- | :--- | :--- |
 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white) <br> ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-primary?style=for-the-badge) <br> ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | 🗣️ Communication <br> 🧠 Analytical Mindset <br> 💡 Innovative Thinking |
 
 ---
 
-### 💼 Interactive Experience Timeline
+### Experience Timeline
 *Click on the arrows to reveal details about my work experience.*
 
 <details>
