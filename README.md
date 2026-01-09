@@ -1,11 +1,11 @@
-# Hi there, I'm Himanshu Agarwal! 👋
+# Hi there, I'm Himanshu Agarwal! 
 
-### 🚀 Strategic Marketing & Consulting Professional
+### Strategic Marketing & Consulting Professional
 *Turning complex datasets into actionable business insights and driving customer-centric growth.*
 
 ---
 
-### 🧐 About Me
+### About Me
 I am a **Business Strategist** and **Big Data Analytics** enthusiast with a passion for market research and decision-making frameworks. My expertise lies in bridging the gap between data and strategy to optimize performance and scale businesses.
 
 - 🔭 **Currently working on:** Advanced market research and AI-driven demand generation strategies.
