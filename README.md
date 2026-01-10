@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I am a **Business Strategist** and **Big Data Analytics** enthusiast with a passion for market research and decision-making frameworks. My expertise lies in bridging the gap between data and strategy to optimize performance and scale businesses.
+I am a **Business Strategist** and **Big Data Analytics** enthusiast with a passion for Consulting & Market Research. My expertise lies in bridging the gap between data and strategy to optimize performance and scale businesses.
 
 - 🔭 **Currently working on:** Advanced market research and AI-driven demand generation strategies.
 - 🌱 **Learning:** Deepening my knowledge in **Generative AI** and **Prompt Engineering**.
